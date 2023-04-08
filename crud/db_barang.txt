@@ -1,0 +1,9 @@
+1;kursi gaming RGB + fan in ;2;5678432314565;;
+2;kursi kantor;123;123425;
+3;kursi biasa;2141;75000;
+4;loli;1;999999999999999;
+5;pensil;11111;21348;
+6;panci;1234567891;32366;
+8;pain killer 99;13;2342512341243534;
+9;nasi goreng pedas plus ultra;9;100000;
+10;panci pubg;4;8567653142;
